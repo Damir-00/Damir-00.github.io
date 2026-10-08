@@ -7,6 +7,9 @@ sections:
     content:
       title: "Джумабаев Дамир Айбекович"
       text: "Студент направления ИТ, РУДН"
+      image:
+      filename: "authors/me.jpg"
+      alt: "Джумабаев Дамир Айбекович"
       primary_action:
         text: "Обо мне"
         url: "/authors/me/"

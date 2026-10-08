@@ -1,0 +1,112 @@
+﻿schema: hugoblox/author/v1
+slug: me
+is_owner: true
+
+name:
+  display: Damir Dzhumabaev
+  given: Damir
+  family: Dzhumabaev
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+
+status:
+  icon: "💻"
+
+role: IT Student
+
+bio: |
+  Student of Peoples' Friendship University of Russia named after Patrice Lumumba.
+  I study Information Technology at the Faculty of Physics and Mathematics.
+  I am interested in programming, Git, Linux, frontend development and mathematics.
+  In the future, I plan to develop my skills in software development
+  and system administration.
+
+affiliations:
+  - name: RUDN University
+    url: https://www.rudn.ru/
+
+links:
+  - icon: brands/github
+    url: https://github.com/Damir-00
+    label: GitHub
+
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/
+    label: Google Scholar
+
+  - icon: brands/orcid
+    url: https://orcid.org/
+    label: ORCID
+
+  - icon: brands/mendeley
+    url: https://www.mendeley.com/
+    label: Mendeley
+
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/
+    label: ResearchGate
+
+  - icon: brands/arxiv
+    url: https://arxiv.org/
+    label: arXiv
+
+  - icon: hero/book-open
+    url: https://elibrary.ru/
+    label: eLibrary
+
+  - icon: hero/academic-cap
+    url: https://www.academia.edu/
+    label: Academia.edu
+
+interests:
+  - Programming
+  - Git
+  - Linux
+  - Mathematics
+  - Frontend Development
+
+education:
+  - degree: Information Technology
+    institution: RUDN University, Faculty of Physics and Mathematics
+    start: 2025-09-01
+    end: 2029-06-30
+
+experience:
+  - role: IT Student
+    org: RUDN University
+    start: 2025-09-01
+    summary: |
+      Studying programming, operating systems, Git, Linux,
+      mathematics and the basics of frontend development.
+
+skills:
+  - name: Programming
+    items:
+      - label: C++
+        level: 3
+      - label: Git
+        level: 3
+      - label: Linux
+        level: 3
+
+  - name: Web Development
+    items:
+      - label: Frontend
+        level: 3
+
+languages:
+  - name: Russian
+    level: 5
+    label: Native
+
+  - name: English
+    level: 3
+    label: Intermediate
+
+awards:
+  - title: Academic Projects and Laboratory Works
+    awarder: RUDN University
+    date: "2026-01-01"
+    summary: Completion of academic projects and laboratory works in programming, operating systems and other disciplines.
+    icon: hero/trophy
